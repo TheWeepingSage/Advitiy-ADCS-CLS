@@ -3,6 +3,7 @@ import numpy as np
 import qnv
 import frames as fs
 from constants_1U import v_w_IO_o
+a = 4
 
 state1=np.array([1,0,0,0,10,0,0,0]) 
 state2=np.array([2,0,0,0,20,0,0,0])
